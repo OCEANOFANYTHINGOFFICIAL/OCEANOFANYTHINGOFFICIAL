@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Nakshatra Ranjan Saha (OCEAN OF ANYTHING)</h1>  
+<h1 align="center">Hi, I'm Nakshatra Ranjan Saha (OCEAN OF ANYTHING)</h1>  
 
 ## I Am Web Developer, Web Designer, Blogger And A Youtuber From India.
 
