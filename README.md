@@ -28,12 +28,12 @@
 <br/>
 <br/>
 [
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCA4sg5pz9n8Q4pKpWzW56fA?label=YouTube%20Channel%20Subscribers&style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4ed3OpFyu0ze-4RdC_i1kg?label=YouTube%20Channel%20Subscribers&style=social)
 ](https://www.youtube.com/@oceanofanything?sub_confirmation=1)
 <br/>
 <br/>
 [
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCA4sg5pz9n8Q4pKpWzW56fA?label=YouTube%20Channel%20Views&style=social)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC4ed3OpFyu0ze-4RdC_i1kg?label=YouTube%20Channel%20Views&style=social)
 ](https://www.youtube.com/@oceanofanything?sub_confirmation=1)
 <br/>
 
